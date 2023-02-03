@@ -5,7 +5,7 @@
 <p><strong>Environment Setup for Mac</strong></p>
 <ul>
 <li ><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
-<li><a href="https://github.com/nvm-sh/nvm#installation-and-update"></a>NVM</li>
+<li><a href="https://github.com/nvm-sh/nvm#installation-and-update">NVM</a></li>
 <li>
 <a href="https://nodejs.org/en/"> NodeJS</a>
 </li>
